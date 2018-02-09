@@ -30,6 +30,7 @@ namespace Agua.Controllers
          B = Faltantes * fecha; 
 
 
+
             ViewBag.Dias =  fecha;
             ViewBag.Botellas = B;
 
